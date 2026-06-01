@@ -1,8 +1,9 @@
 {
   "app": "DrinkMyCraft",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "date": "2026-06-01",
   "notes": [
+    "\ud83c\udf7a DrinkMyCraft 1.4.0 \u2014 Liquid Glass (Metal 4) standardized + Mac menu bar",
     "\ud83c\udf7a DrinkMyCraft 1.3.0 \u2014 NEW Mac menu bar: Go, Theme & app-specific menus with keyboard shortcuts",
     "\ud83c\udf7a DrinkMyCraft 1.2 \u2014 NEW pint-of-beer app icon",
     "\ud83c\udf7a DrinkMyCraft 1.1 \u2014 NEW Discover hub: Surprise Me, Beer of the Day, Your Stats, Standard-Drinks calculator & Explore by Style",
