@@ -1,8 +1,9 @@
 {
   "app": "DrinkMyCraft",
-  "version": "1.5.0",
-  "date": "2026-06-01",
+  "version": "1.6.0",
+  "date": "2026-06-02",
   "notes": [
+    "\ud83c\udf7a DrinkMyCraft 1.6.0 \u2014 Siri/Shortcuts (App Intents), Spotlight search across all data, deep OS integration",
     "\ud83c\udf7a DrinkMyCraft 1.5.0 \u2014 More content added: expanded database across all categories",
     "\ud83c\udf7a DrinkMyCraft 1.4.0 \u2014 Liquid Glass (Metal 4) standardized + Mac menu bar",
     "\ud83c\udf7a DrinkMyCraft 1.3.0 \u2014 NEW Mac menu bar: Go, Theme & app-specific menus with keyboard shortcuts",
