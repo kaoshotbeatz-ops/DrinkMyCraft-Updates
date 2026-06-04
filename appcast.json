@@ -1,8 +1,9 @@
 {
   "app": "DrinkMyCraft",
-  "version": "1.7.0",
-  "date": "2026-06-02",
+  "version": "1.8.0",
+  "date": "2026-06-04",
   "notes": [
+    "\ud83c\udf7a DrinkMyCraft 1.8.0 \u2014 updated across all platforms",
     "\ud83c\udf7a DrinkMyCraft 1.7.0 \u2014 5x content: quiz, streak, achievements + massive database expansion",
     "\ud83c\udf7a DrinkMyCraft 1.6.0 \u2014 Siri/Shortcuts (App Intents), Spotlight search across all data, deep OS integration",
     "\ud83c\udf7a DrinkMyCraft 1.5.0 \u2014 More content added: expanded database across all categories",
